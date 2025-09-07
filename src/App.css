@@ -1,0 +1,4 @@
+div[style*="grx"],
+a[href*="grx"] {
+    display: none !important;
+}
